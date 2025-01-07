@@ -10,6 +10,6 @@ Power BI is used to analyze supplier quality and performance across key dimensio
 The Dashboard Was Built Using A Star Schema Data Model For Optimal Performance And Ease Of Analysis. Key Dimensions Such As Vendor, Plant, Material Type, And Defect Type Were 
 Separated Into Individual Tables, While A Fact Table Was Created For Metrics Like Defect Quantity And Downtime.
 
--Fact Table: Contains Core Metrics Such As Total Defect Qty And Downtime Hours.
--Dimension Tables: Includes Vendor, Plant Location, Material Type, Defect Type, And Other Related Attributes.
--Date Table: Supports Time-Based Analysis, Making It Possible To Track Trends And Filter Reports By Time Periods.
+- Fact Table: Contains Core Metrics Such As Total Defect Qty And Downtime Hours.
+- Dimension Tables: Includes Vendor, Plant Location, Material Type, Defect Type, And Other Related Attributes.
+- Date Table: Supports Time-Based Analysis, Making It Possible To Track Trends And Filter Reports By Time Periods.
