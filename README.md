@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/0869fed3-0154-496e-8b11-df7df602b5f4
+![image](https://github.com/user-attachments/assets/f32c0cde-e99f-4807-8c59-b6349a628c75)
+
 
 # Project Title: Supplier-Quality-And-Performance-Dashboard
 This Repository Contains Supplier Quality And Performance Analysis Across Multiple Dimensions Such As Vendors, Plants, Materials, And Defect Types. 
