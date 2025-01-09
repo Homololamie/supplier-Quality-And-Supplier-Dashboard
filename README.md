@@ -40,7 +40,9 @@ The Data Cleaning Process Include The Following Steps
 The Dashboard Was Built Using A Star Schema Data Model For Optimal Performance And Ease Of Analysis. 
 
 #### The Schema For The Table Is Presnted Below
----------------------------------------------------------------------------------------
+
+https://raw.githubusercontent.com/Homololamie/supplier-Quality-And-Supplier-Dashboard/2a01f7d1eef2fb4899e495b63d7572aaa71c3ce8/schema.png
+
 
 ## Data Visualizations And Insight Generation
 ##### Dashboard Overview
