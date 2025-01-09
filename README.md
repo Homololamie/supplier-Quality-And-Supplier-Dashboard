@@ -1,8 +1,21 @@
 
-![image](https://github.com/user-attachments/assets/0869fed3-0154-496e-8b11-df7df602b5f4)
+![image](https://github.com/user-attachments/assets/0869fed3-0154-496e-8b11-df7df602b5f4
 
 # Project Title: Supplier-Quality-And-Performance-Dashboard
 This Repository Contains Supplier Quality And Performance Analysis Across Multiple Dimensions Such As Vendors, Plants, Materials, And Defect Types. 
+
+## Table Of Content
+
+[Project Overview](#project-overview)
+
+
+Data Sources
+Tool  Used
+Data Cleaning and Preparations
+Data Model
+Data Visualizations And Insight Generation
+Key Findings
+Recommendations
 
 ## Project Overview
 
@@ -23,10 +36,11 @@ The Data Obtained Contains 7 Tables Representative Of The Operations In The Orga
 - Vendor Data
 - Plant Data
 
-  ## Tool  Used
+## Tool  Used
   - Microsoft PowerBI
       i Power Query Was Used For Data Cleaning
-      ii Powerbi was Used For Analysis and Visualization
+      ii Powerbi was Used For Analysis
+      iii Data Visualization
 
 ##  Data Cleaning and Preparations
 The Data Cleaning Process Include The Following Steps
@@ -39,7 +53,7 @@ The Data Cleaning Process Include The Following Steps
 - Data Profiling: Conducted Data Profiling To Ensure Quality Assurance And Identify Any Data Anomalies On The Entire Dataset.
 - Removal Of Unwanted Columns And Duplicates: Cleared Out Irrelevant Columns And Eliminated Duplicate Entries To Refine The Dataset.
 
-  ##  Data Model
+##  Data Model
 The Dashboard Was Built Using A Star Schema Data Model For Optimal Performance And Ease Of Analysis. 
 The Schema For The Table Is Presnted Below
 
