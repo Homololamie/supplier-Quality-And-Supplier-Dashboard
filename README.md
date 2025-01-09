@@ -44,9 +44,9 @@ The Data Obtained Contains 7 Tables Representative Of The Operations In The Orga
 
 ## Tool  Used
   - Microsoft PowerBI
-      i. Power Query Was Used For Data Cleaning
-      ii Powerbi was Used For Analysis
-      iii Data Visualization
+      1. Power Query Was Used For Data Cleaning
+      2. Powerbi was Used For Analysis
+      3. Data Visualization
 
 ##  Data Cleaning and Preparations
 The Data Cleaning Process Include The Following Steps
