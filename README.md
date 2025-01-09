@@ -12,11 +12,11 @@ This Repository Contains Supplier Quality And Performance Analysis Across Multip
 
 [Tool  Used](#tool-used)
 
-[Data Cleaning and Preparations](#data-cleaning-preparations)
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
 [Data Model](#data-model)
 
-[Data Visualizations And Insight Generation](#data-visualizations-insight-generation)
+[Data Visualizations And Insight Generation](#data-visualizations-and-insight-generation)
 
 [Key Findings](#key-findings)
 
