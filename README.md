@@ -8,8 +8,8 @@ This Repository Contains Supplier Quality And Performance Analysis Across Multip
 
 [Project Overview](#project-overview)
 
+[Data Sources](#data-sources)
 
-Data Sources
 Tool  Used
 Data Cleaning and Preparations
 Data Model
