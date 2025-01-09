@@ -75,7 +75,8 @@ The Schema For The Table Is Presnted Below
 
 
 The Key Performance Indicators (Kpis) For The Current Month Indicate A 4.25% Increase In Defect Quantity, A 4.39% Increase In Downtime Hours, And A 4.39% Rise In Downtime Cost Per Hour Compared To The Previous Month. The Total Defect Quantity Stands At 2.60 Billion, With A Downtime Of 216,000 Hours And A Downtime Cost/ Hour Of $2.16 Million. These Metrics Suggest That Vendors Supplied Lower-Quality Materials, Negatively Impacting The Production Process.
-For 2019 Year The Months Of September And October Recorded The Highest Defect Quantities And Downtime Hours. This Surge May Be Linked To Increased Vendor Orders In Preparation For The Festive Period Which Led To A Higher Supply Of Substandard Materials.Avamm, Meejo, And Yombu Are The Worst-Performing Vendors By Defect Quantity, While The Worst-Performing Plants By Defect Quantity Are Hingham, Charles City, And Twin Rocks. Among Materials Raw Materials,  Corrugates And Film Are The Worst Performers.  By Category, The Worst Performers Are Mechanical, Logistics, And Packaging .
+
+For Year 2019 The Months Of September And October Recorded The Highest Defect Quantities And Downtime Hours. This Surge May Be Linked To Increased Vendor Orders In Preparation For The Festive Period Which Led To A Higher Supply Of Substandard Materials.Avamm, Meejo, And Yombu Are The Worst-Performing Vendors By Defect Quantity, While The Worst-Performing Plants By Defect Quantity Are Hingham, Charles City, And Twin Rocks. Among Materials Raw Materials,  Corrugates And Film Are The Worst Performers.  By Category, The Worst Performers Are Mechanical, Logistics, And Packaging .
 
 #### Vendor Performance
 
@@ -93,7 +94,9 @@ For 2019 Year The Months Of September And October Recorded The Highest Defect Qu
 
 
 Raw Materials Account For The Highest Defect Quantity And Downtime, Closely Followed By Corrugate , Film, Labels, And Cartons. The Most Significant Defect With The Highest Defect Quantity And Downtime Is Not Certified, Followed By Bad Smith, Misc, Foreign Material, Spec. This Suggests Material Supply Quality Issues Or Delays In The Certification Process.
+
 The Category "Mechanical" Dominates With The Highest Defect Quantity And Downtime Hours, Indicating Issues With Equipment Or Machinery. Followed By Gistics, Materials & Components, Goods & Service And Lastly Electrical. The Dominance Of The Mechanical Category Suggests Recurring Maintenance Or Equipment Breakdown Which Could Exacerbated By Aging Machinery, Lack Of Preventive Maintenance, Or Improper Handling.
+
 The Defect Quantity And Downtime Hours Spike Significantly In October And November Respectively For Both Mechanical And Logistic Categories, Suggesting Potential Seasonal Or Process-Related Challenges. The Spike Could Indicate A Surge In Demand Or Increased Production Pressure Leading To More Defects And Equipment Stress.
 
 -------------------------------------------------------------------------------------
