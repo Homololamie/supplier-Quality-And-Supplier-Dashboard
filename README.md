@@ -1,14 +1,13 @@
-# Project Title: Supplier-Quality-And-Performance-Dashboard
+### Dashboard Overview
+![image](https://github.com/user-attachments/assets/0869fed3-0154-496e-8b11-df7df602b5f4)
 
+# Project Title: Supplier-Quality-And-Performance-Dashboard
 This Repository Contains Supplier Quality And Performance Analysis Across Multiple Dimensions Such As Vendors, Plants, Materials, And Defect Types. 
 
 ## Project Overview
 
 The case study presented focuses on a manufacturing company struggling to monitor and improve supplier performance effectively. By leveraging business intelligence tools, the company centralized procurement data and generated actionable insights to address critical challenges such as material defects, vendor reliability, and production downtime.
 Power BI is used to analyze supplier quality and performance across key dimensions, including vendors, plants, materials, and defect types. The dashboard delivers a comprehensive view of defects, downtime, and their financial impact, enabling manufacturers to pinpoint problem areas and implement strategies to enhance supplier quality and reduce operational inefficiencies.
-
-### Dashboard Overview
-![image](https://github.com/user-attachments/assets/0869fed3-0154-496e-8b11-df7df602b5f4)
 
 
 ## Data Sources
