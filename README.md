@@ -125,7 +125,7 @@ The Dashboard Analysis Has Identified The Following As The Primary Causes Of The
   Efficiently.
 
 ## Limitations 
-Absence Of The Total Orders Of Supplies  Data  By Each Vendor 
+Absence Of The Total Order Of Supplies  Data  By Each Vendor 
 
 ### Contact
 For any questions or support, please contact:
