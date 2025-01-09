@@ -41,7 +41,8 @@ The Dashboard Was Built Using A Star Schema Data Model For Optimal Performance A
 
 #### The Schema For The Table Is Presnted Below
 
-https://raw.githubusercontent.com/Homololamie/supplier-Quality-And-Supplier-Dashboard/2a01f7d1eef2fb4899e495b63d7572aaa71c3ce8/schema.png
+![image](https://github.com/user-attachments/assets/a580fd4e-4f46-4a5f-bf20-3ac3ad489754)
+
 
 
 ## Data Visualizations And Insight Generation
