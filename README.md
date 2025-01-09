@@ -10,12 +10,16 @@ This Repository Contains Supplier Quality And Performance Analysis Across Multip
 
 [Data Sources](#data-sources)
 
-Tool  Used
-Data Cleaning and Preparations
-Data Model
-Data Visualizations And Insight Generation
-Key Findings
-Recommendations
+[Tool  Used](#tool-used)
+
+[Data Cleaning and Preparations](#data-cleaning-preparations)
+
+[Data Visualizations And Insight Generation](#data-visualizations-insight-generation)
+
+[Key Findings](#key-findings)
+
+[Recommendations](#recommendations)
+
 
 ## Project Overview
 
